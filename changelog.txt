@@ -1,0 +1,7 @@
+Version 0.0.1
+
+i) Initial Version Release
+
+
+Version 0.0.2
+i) In Customizer critical error resolved.
